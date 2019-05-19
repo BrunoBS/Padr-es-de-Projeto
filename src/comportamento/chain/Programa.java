@@ -9,7 +9,7 @@ package comportamento.chain;
  *
  * @author Bruno B
  */
-public class MainChain {
+public class Programa {
 
     public static void main(String[] args) {
         BancoChain bancos = new Bancoob();
