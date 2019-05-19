@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Robo/Padrao/src/criacao/singleton/Log.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/factoryMethod/EmpresaUrbanaFactory.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/abstractFactoy/EmpresaOnibusFactory.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/prototype/Teste.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/prototype/PrototypeFactory.java</file>
+            <file>file:/F:/Robo/Padrao/src/adpater/TomadaDeDoisPinos.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/abstractFactoy/PassagemUrbana.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/abstractFactoy/PassagemEstadualImplementacao.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/factoryMethod/EmpresaEstadualFactory.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/CadastraArtigo.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/factoryMethod/Empresa.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/singleton/Desktop.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/um/ItemDaNotaBuilder.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/abstractFactoy/PassagemUrbanaImplementacao.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/abstractFactoy/PassagemEstadual.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/Blog.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/um/NotaFiscal.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/um/TesteDaNotaFiscal.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/factoryMethod/PassagemEstadual.java</file>
+            <file>file:/F:/Robo/Padrao/src/adpater/Teste.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/factoryMethod/Passagem.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/um/NotaFiscalBuilder.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/singleton/Banco.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/factoryMethod/Teste.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/prototype/Animal.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/Revista.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/abstractFactoy/EmpresaOnibus.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/RevistaBuilder.java</file>
+            <file>file:/F:/Robo/Padrao/src/adpater/AdapterTomada.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/factoryMethod/PassagemUrbana.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/ArtigoBuilder.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/BlogBuilder.java</file>
+            <file>file:/F:/Robo/Padrao/src/adpater/TomadaDeTresPinos.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/um/ItemDaNota.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/abstractFactoy/Teste.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/prototype/Ovelha.java</file>
+            <file>file:/F:/Robo/Padrao/src/criacao/builder/Artigo.java</file>
+        </group>
+    </open-files>
+</project-private>
